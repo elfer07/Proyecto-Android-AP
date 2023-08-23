@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto Integrador AP</string>
+    <string name="compare">Comparar</string>
+    <string name="result">Compará dos cadenas de texto.</string>
+    <string name="same">IGUALES</string>
+    <string name="not_same">NO SON IGUALES</string>
+    <string name="enter_something">Debes ingresar algun caracter para comprar.</string>
+</resources>
